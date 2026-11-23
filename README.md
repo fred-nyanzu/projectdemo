@@ -1,4 +1,4 @@
-# Guide to attached cluade code app to GitHub
+# Guide to attach cluade code app to GitHub
 This repo gives a guide to attaching cluade code to your git repo
 
 ## Connecting Claude Code to GitHub
